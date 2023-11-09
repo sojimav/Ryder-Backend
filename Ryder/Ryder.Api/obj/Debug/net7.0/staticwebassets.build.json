@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dM0f7RU89DZapTFmRtlvSiJeVJRAWOE+7tRh7dAWd2c=",
+  "Source": "Ryder.Api",
+  "BasePath": "_content/Ryder.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

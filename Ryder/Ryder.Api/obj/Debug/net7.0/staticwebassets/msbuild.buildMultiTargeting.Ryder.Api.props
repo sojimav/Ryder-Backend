@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ryder.Api.props" />
+</Project>
